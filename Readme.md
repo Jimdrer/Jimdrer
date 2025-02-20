@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<p align="center">Hey :wave: soy Dimas Alejandro!</p>
+<p align="center">Hey :wave: soy Dimas Alejandro! <br> :raising_hand: Bienvenido a mi repositorio donde encontraras mi portafolio y articulos compartidos. <br> Saludos!!! <br>:desktop_computer: :coffee:</p>
 
 ###
 
