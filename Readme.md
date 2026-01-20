@@ -76,9 +76,6 @@ const developer = {
 📈 Mis Contribuciones </br>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Jimdrer&theme=github&area=true&hide_border=true)
 
-📚 Aprendiendo Actualmente  
-⚙️ Backend  🤖 Machine Learning con TensorFlow  🔐 Cybersecurity
-
 🎓 Educación </br>
 [![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](#)
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)
