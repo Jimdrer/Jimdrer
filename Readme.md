@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Jose Dimas Alejandro Espinosa Razo
+# 👋 ¡Hola!
 
 ### 🚀 Desarrollador Front-end | Especialista en Desarrollo Web
 
