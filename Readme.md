@@ -90,9 +90,9 @@ const developer = {
 
 🏆 Logros y Certificaciones </br>
 
-![](https://img.shields.io/badge/AWS_Certified-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![](https://img.shields.io/badge/AWS_Certified-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](*)
+[![](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](*)
+[![](https://img.shields.io/badge/Microsoft_Azure-Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/GrisGGG/Museo-Virtual-)
 
 📬 Contacto y Redes </br>
 
