@@ -87,8 +87,8 @@ const developer = {
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 
-```
-🏆 Logros y Certificaciones </br>
+
+```🏆 Logros y Certificaciones </br>
 
 [![](https://img.shields.io/badge/AWS_Certified-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](*)
 [![](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](*)
